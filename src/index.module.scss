@@ -1,0 +1,10 @@
+.mdPage{
+  :global{
+    .markdown-body pre{
+      padding: 0;
+    }
+    .markdown-body code{
+      background-color: transparent;
+    }
+  }
+}
